@@ -1,2 +1,0 @@
-name = " Pisit "
-lastname = " Thongprasert "
